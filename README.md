@@ -1,2 +1,0 @@
-# laravel-movies
-Laravel Movies
